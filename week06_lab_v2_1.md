@@ -370,10 +370,13 @@ class MyApp extends StatelessWidget {
 ```
 
 > ✅ **Checkpoint 2.3** รันแอปแล้วทดสอบทั้ง 3 สถานการณ์ คือ (1) ค้นหาเมืองที่มีจริง (2) ค้นหาเมืองที่ไม่มีอยู่จริง (3) ปิด Wi-Fi/Data บนเครื่องแล้วลองค้นหา ถ่ายภาพหน้าจอทั้ง 3 กรณี
-
-```text
 บันทึกรูปที่นี่
-```
+(1) ค้นหาเมืองที่มีจริง
+<img width="1913" height="430" alt="image" src="https://github.com/user-attachments/assets/c13d65e2-3b51-40ff-aa83-c93778721e7c" />
+(2) ค้นหาเมืองที่ไม่มีอยู่จริง
+<img width="1920" height="471" alt="image" src="https://github.com/user-attachments/assets/61efc03e-3c29-4b46-91cb-b6a0ffb8e3e8" />
+(3) ปิด Wi-Fi/Data บนเครื่องแล้วลองค้นหา
+<img width="1920" height="434" alt="image" src="https://github.com/user-attachments/assets/994d7e6c-4c2e-4edc-92c5-01e6ee95530c" />
 
 ---
 

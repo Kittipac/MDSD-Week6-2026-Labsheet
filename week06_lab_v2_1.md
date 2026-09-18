@@ -245,9 +245,15 @@ class WeatherService {
 
 
 > ✅ **Checkpoint 2.2** บันทึกผลการตรวจสอบ `statusCode` อย่างน้อย 2 กรณี (สำเร็จ และ 404) ตามเกณฑ์ข้างต้น
+<img width="1095" height="925" alt="image" src="https://github.com/user-attachments/assets/2a0e2174-cf8f-4a45-9c9a-f4117cc1e2fa" />
+<img width="1092" height="898" alt="image" src="https://github.com/user-attachments/assets/f624e94d-bcf0-45a7-827f-6031bfb25f1a" />
 
 ```text
-บันทึกรูปและคำตอบที่นี่
+กรณีที่ 1
+Bangkok → Status Code: 200
+กรณีที่ 2
+ABCXYZ999 → Status Code: 404
+ทดสอบการตรวจสอบ statusCode จำนวน 2 กรณี ได้แก่ การค้นหาเมืองที่มีอยู่จริง ได้ Status Code 200 ซึ่งเป็นการทำงานสำเร็จ และการค้นหาเมืองที่ไม่มีอยู่จริง ได้ Status Code 404 ซึ่งหมายถึงไม่พบข้อมูลที่ร้องขอ
 ```
 
 ### ขั้นตอนที่ 2.4 — 🧠 คิดเอง/ออกแบบเอง
